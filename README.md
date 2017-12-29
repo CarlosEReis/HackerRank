@@ -16,7 +16,7 @@
 |:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world)                                    |   30   | [Solution.java](https://github.com/CarlosEReis/HackerRank/blob/master/30%20Days%20of%20Code/Day%2000%20-%20Hello%2C%20World/Solution.java)                                  |
 |  1  | [Data Types](https://www.hackerrank.com/challenges/30-data-types)                                       |   30   | [Solution.java](https://github.com/CarlosEReis/HackerRank/blob/master/30%20Days%20of%20Code/Day%2001%20-%20Data%20Types/Solution.java)                                      |
-
+|  2  | [Operators](https://www.hackerrank.com/challenges/30-operators)                                         |   30   | [Solution.java](https://github.com/CarlosEReis/HackerRank/blob/master/30%20Days%20of%20Code/Day%2002%20-%20Operators/Solution.java)                                         |
 
 # Java
 
@@ -24,7 +24,7 @@
 |:---------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |         Introduction        | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)                                                |    3   | [Solution.java](https://github.com/CarlosEReis/HackerRank/blob/master/Java/Introduction/01%20-%20Welcome%20to%20Java!/Solution.java)                                                    |
 |         Introduction        | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)                                 |    5   | [Solution.java](https://github.com/CarlosEReis/HackerRank/blob/master/Java/Introduction/02%20-%20Java%20Stdin%20and%20Stdout%20I/Solution.java)                                         |
-
+|         Introduction        | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else)                                                       |   10   | [Solution.java](https://github.com/CarlosEReis/HackerRank/blob/master/Java/Introduction/03%20-%20Java%20If-Else/Solution.java)                                                          |
 
 # SQL
 
@@ -32,3 +32,4 @@
 |:-------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |     Basic Select    | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)                               |   10   | [MySQL Solution](https://github.com/CarlosEReis/HackerRank/blob/master/SQL/Basic%20Select/01%20-%20Revising%20the%20Select%20Query%20I.sql)                 |
 |     Basic Select    | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2)                            |   10   | [MySQL Solution](https://github.com/CarlosEReis/HackerRank/blob/master/SQL/Basic%20Select/02%20-%20Revising%20the%20Select%20Query%20II.sql)                |
+|     Basic Select    | [Select All](https://www.hackerrank.com/challenges/select-all-sql)                                                           |   10   | [MySQL Solution](https://github.com/CarlosEReis/HackerRank/blob/master/SQL/Basic%20Select/03%20-%20Select%20All.sql)                                        |
